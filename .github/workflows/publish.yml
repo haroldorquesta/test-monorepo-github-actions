@@ -19,4 +19,4 @@ jobs:
           tag: ${{ github.ref }}
           overwrite: true
           file_glob: true
-          repo_name: test-publish-actions
+          repo_name: haroldorquesta/test-publish-actions
